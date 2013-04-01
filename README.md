@@ -13,7 +13,7 @@ In your web page:
 ```html
 <span class="timestamp">04/01/2013 11:00:00</span>
 <script src="jquery.js"></script>
-<script src="dist/jquery.optimusTime.min.js"></script>
+<script src="jquery.optimusTime.min.js"></script>
 <script>
   $('.timestamp').optimusTime();
 </script>
