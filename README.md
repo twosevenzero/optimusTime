@@ -5,8 +5,8 @@ Transforms a standard date timestamp into a more human readable string
 ## Getting Started
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/twosevenzero/optimusTime/master/dist/jquery.optimusTime.min.js
-[max]: https://raw.github.com/twosevenzero/optimusTime/master/dist/jquery.optimusTime.js 
+[min]: https://raw.github.com/twosevenzero/optimusTime/master/jquery.optimusTime.min.js
+[max]: https://raw.github.com/twosevenzero/optimusTime/master/jquery.optimusTime.js 
 
 In your web page:
 
