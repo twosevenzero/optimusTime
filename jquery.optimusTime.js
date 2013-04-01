@@ -20,6 +20,10 @@
         },
         convertTime: function(){
 
+            if (this.minutes < 1) {
+                this.newAlertText = 'just now.';
+            }
+            
             if (this.minutes === 1) {
                 this.newAlertText = this.minutes + ' minute ago.';
             }

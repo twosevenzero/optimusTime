@@ -27,6 +27,7 @@ This will transform the date into:
 
 ## Changelog
 - 0.1.0 - Initial draft of plugin.
+- 0.1.1 - Added "just now" for time under 1 minute.
 
 
 ## License
