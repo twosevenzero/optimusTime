@@ -26,6 +26,7 @@ This will transform the date into:
 ```
 
 ## Changelog
+- 0.1.3 - More appropriate variable names and general code cleanup.
 - 0.1.2 - Fixed issue with "just now" and "1 minute ago".
 - 0.1.1 - Added "just now" for time under 1 minute.
 - 0.1.0 - Initial draft of plugin.
