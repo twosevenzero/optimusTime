@@ -7,10 +7,10 @@
         "timestamp",
         "relative"
     ],
-    "version": "0.1.5",
+    "version": "0.1.6",
     "author": {
         "name": "Dave West",
-        "url": "https://github.com/jquery/jquery-color/blob/2.1.2/AUTHORS.txt"
+        "url": "https://github.com/twosevenzero"
     },
     "licenses": [
         {

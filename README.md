@@ -35,7 +35,8 @@ $('.timestamp').optimusTime({ detail: 'coarse' });
 ```
 
 ## Changelog
-- 0.1.5 - Uploaded to jQuery plugin library.
+- 0.1.6 - Repository maintenance. No plugin changes.
+- 0.1.5 - Repository maintenance. No plugin changes.
 - 0.1.4 - Added config options for coarse or fine detail and added weeks and months.
 - 0.1.3 - More appropriate variable names and general code cleanup.
 - 0.1.2 - Fixed issue with "just now" and "1 minute ago".
