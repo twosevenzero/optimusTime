@@ -25,7 +25,17 @@ This will transform the date into:
 <span class="timestamp">5 minutes ago.</span>
 ```
 
+## Configuration
+You can now pass a config object. The only configuration option currently is 'detail' which determines how coarse or fine the output is. The default is 'fine' and will be used if no configuration options are set. When 'fine' detail is used, the output will be broken down into minutes, and hours. If 'coarse' is used, anything less than 24 hours will be referred to as 'today'.
+
+Example Configuration:
+
+```html
+$('.timestamp').optimusTime({ detail: 'coarse' });
+```
+
 ## Changelog
+- 0.1.4 - Added config options for coarse or fine detail and added weeks and months.
 - 0.1.3 - More appropriate variable names and general code cleanup.
 - 0.1.2 - Fixed issue with "just now" and "1 minute ago".
 - 0.1.1 - Added "just now" for time under 1 minute.
