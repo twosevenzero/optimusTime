@@ -1,0 +1,27 @@
+{
+    "name": "optimusTime",
+    "title": "jQuery optimusTime",
+    "description": "Transforms a standard date timestamp to a more human readable, relative date.",
+    "keywords": [
+        "date",
+        "timestamp",
+        "relative"
+    ],
+    "version": "0.1.5",
+    "author": {
+        "name": "Dave West",
+        "url": "https://github.com/jquery/jquery-color/blob/2.1.2/AUTHORS.txt"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "bugs": "https://github.com/twosevenzero/optimusTime/issues",
+    "homepage": "https://github.com/twosevenzero/optimusTime",
+    "docs": "https://github.com/twosevenzero/optimusTime",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}

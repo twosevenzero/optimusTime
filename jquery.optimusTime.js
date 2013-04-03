@@ -1,6 +1,6 @@
 /*
  * optimusTime
- * version: 0.1.4
+ * version: 0.1.5
  * https://github.com/twosevenzero/optimusTime
  *
  * Copyright (c) 2013 Dave West
