@@ -1,6 +1,6 @@
 /*
  * optimusTime
- * version: 0.1.6
+ * version: 0.1.7
  * https://github.com/twosevenzero/optimusTime
  *
  * Copyright (c) 2013 Dave West
@@ -81,7 +81,7 @@
 
     // Create the plugin.
     $.fn.optimusTime = function(config) {
-        var plugin = Object.create(optimusTime);
+        var plugin = new Object(optimusTime);
         return this.each(function() {
             plugin.init(this, config);
         });

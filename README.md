@@ -35,6 +35,7 @@ $('.timestamp').optimusTime({ detail: 'coarse' });
 ```
 
 ## Changelog
+- 0.1.7 - Changed Object.create to new Object to support ie6+
 - 0.1.6 - Repository maintenance. No plugin changes.
 - 0.1.5 - Repository maintenance. No plugin changes.
 - 0.1.4 - Added config options for coarse or fine detail and added weeks and months.
